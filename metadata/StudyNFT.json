@@ -1,7 +1,7 @@
 {
   "name": "Blockchain Study NFT #0",
   "description": "블록체인 공부 첫걸음 NFT 만들기 시작",
-  "image": "https://raw.githubusercontent.com/너의아이디/저장소명/main/images/0.png",
+  "image": "https://raw.githubusercontent.com/hyeonbin827/BlockchainNFT/main/image/BlockchainNFT.png",
   "attributes": [
     { "trait_type": "Program", "value": "Study" },
     { "trait_type": "Subject", "value": "NFT" },
